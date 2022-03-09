@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shashankpandey2012.shashankpandey2012">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Proxima+Nova&size=30&color=1C55F7&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Shashank+Pandey;Nice+to+meet+you!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Proxima+Nova&center=true&size=30&color=1C55F7&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Shashank+Pandey;Nice+to+meet+you!">
   </a>
 </h1>
 <p align="center">
